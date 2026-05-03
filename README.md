@@ -60,10 +60,8 @@
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilkumar210h-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar210h-debug&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilkumar210h-debug&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar210h-debug&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikhilkumar210h-debug&theme=tokyonight&hide_border=true)
 
 ---
