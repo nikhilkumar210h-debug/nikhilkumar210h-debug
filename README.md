@@ -57,11 +57,12 @@
 - `Python` `Random`
 
 ---
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilkumar210h-debug&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar210h-debug&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkumar210h-debug&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilkumar210h-debug&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilkumar210h-debug&theme=tokyonight)
 ---
 
 ## 🎯 My Learning Roadmap
