@@ -38,7 +38,7 @@
 
 ### 📰 [Smart News Fetcher CLI](https://github.com/nikhilkumar210h-debug/-Smart-News-Fetcher-CLI-Python-NewsAPI-)
 > Command-line app that fetches latest news by topic and saves results to JSON.
-- `Python` `WeatherAPI` `Requests`
+- `Python` `NewsAPI` `Requests`
 
 ### 🔐 [Secret Code Language Encoder](https://github.com/nikhilkumar210h-debug/Secret-Code-Language-Python-Encoder-Decoder-CLI-Tool)
 > Encode and decode secret messages using a custom language system.
