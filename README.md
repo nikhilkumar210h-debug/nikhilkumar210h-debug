@@ -70,8 +70,8 @@
 ```
 ✅ Python Basics        — Code With Harry 100 Days
 ✅ Real Projects        — 13+ projects on GitHub
-🔄 AI/ML Libraries     — NumPy, Pandas, Matplotlib (In Progress)
-⬜ Machine Learning     — CampusX 100 Days of ML
+✅ AI/ML Libraries     — NumPy, Pandas, Matplotlib 
+⬜ Machine Learning     — CampusX 100 Days of ML (In Progress)
 ⬜ Deep Learning        — Coming soon
 ⬜ Kaggle Competitions  — Coming soon
 ⬜ ML Engineer Job      — The final goal 🎯
@@ -83,7 +83,6 @@
 
 - 📚 **CampusX 100 Days of Machine Learning** — Day by day
 - 🤖 **Improving Grude AI** — Adding more features
-- 🧮 **Learning NumPy & Pandas** — Hands on practice
 
 ---
 
