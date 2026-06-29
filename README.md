@@ -75,7 +75,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-nikhilkumar210h--debug-181717?style=for-the-badge&logo=github)](https://github.com/nikhilkumar210h-debug)
 
-[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nikhilkumar210h)
+[![kaggle](https://img.shields.io/badge/Kaggle-nikhilkumar210h-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nikhilkumar210h)
 ---
 
 <div align="center">
