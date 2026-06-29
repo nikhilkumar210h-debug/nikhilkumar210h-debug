@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🧠 **Self-taught developer** — learned Python from scratch via Code With Harry 100 Days course
-- 🤖 **Currently learning** — AI/ML (CampusX 100 Days of Machine Learning)
+- 🤖 **Currently learning** — AI/ML (Machine Learning)
 - 🎯 **Goal** — Become an ML Engineer based on skills and portfolio, no degree needed
 - 🏠 **From** — Dehri on Sone, Bihar, India
 - ⚡ **Fun fact** — I built a working AI voice assistant before finishing my basics!
