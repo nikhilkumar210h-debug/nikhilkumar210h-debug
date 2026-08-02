@@ -51,7 +51,7 @@
 ✅ Python Basics        — intermidiate level.
 ✅ AI/ML Libraries      — NumPy, Pandas, Matplotlib,seaborn.
 ✅ Data analysis        —  data gathring, data assessing, data cleaning, eda.
-⬜SQL                  — sql (In Progress).
+✅SQL                  — sql (In Progress).
 ⬜ Statistic            — Coming soon.
 ⬜ Machine Learning     — Coming soon. .
 ⬜ Deep Learning        — Coming soon.
