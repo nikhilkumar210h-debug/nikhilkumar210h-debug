@@ -10,7 +10,7 @@
 - 🤖 **Currently learning** — AI/ML (Machine Learning)
 - 🎯 **Goal** — Become an ML Engineer based on skills and portfolio, no degree needed
 - 🏠 **From** — Dehri on Sone, Bihar, India
-- ⚡ **Fun fact** — I built a working AI voice assistant before finishing my basics!
+- ⚡ **Fun fact** — I built a working AI voice assistant and webapp before finishing my basics!
 
 ---
 
@@ -52,7 +52,7 @@
 ✅ AI/ML Libraries      — NumPy, Pandas, Matplotlib,seaborn.
 ✅ Data analysis        —  data gathring, data assessing, data cleaning, eda.
 ✅SQL                  — sql (In Progress).
-⬜ Statistic            — Coming soon.
+🔃 math                 — Coming soon.
 ⬜ Machine Learning     — Coming soon. .
 ⬜ Deep Learning        — Coming soon.
 ⬜ NLP                  — Coming soon.
