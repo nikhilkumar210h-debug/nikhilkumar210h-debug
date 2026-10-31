@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Nikhil Kumar — AI and Machine Learning</title>
+  <desc id="desc">A premium dark navy banner with cyan and violet gradients, subtle grid lines and a neural network illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D1B"/><stop offset="0.55" stop-color="#101A34"/><stop offset="1" stop-color="#17102B"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#43E5D3"/><stop offset="0.52" stop-color="#4CB8FF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <linearGradient id="titleFill" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.7" stop-color="#DDF7FF"/><stop offset="1" stop-color="#B8B5FF"/></linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#00D9FF" stop-opacity=".24"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".24"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8FB7D5" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="390" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="26" fill="url(#grid)"/>
+  <ellipse cx="180" cy="50" rx="360" ry="220" fill="url(#glowA)"/>
+  <ellipse cx="1060" cy="320" rx="320" ry="250" fill="url(#glowB)"/>
+  <path d="M0 322 C220 286 360 370 590 326 S970 268 1200 316" fill="none" stroke="url(#accent)" stroke-opacity=".22" stroke-width="1.5"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="74" y="63" width="350" height="31" rx="15.5" fill="#14253B" stroke="#3DD9E7" stroke-opacity=".55"/>
+    <circle cx="94" cy="78.5" r="4" fill="#4DE6CF"/>
+    <text x="109" y="83.5" font-size="11" font-weight="700" letter-spacing="1.7" fill="#BDEFF4">AI / ML ENGINEERING · LEARNING IN PUBLIC</text>
+    <text x="70" y="174" font-size="62" font-weight="800" letter-spacing="-2.5" fill="url(#titleFill)">NIKHIL KUMAR</text>
+    <rect x="74" y="195" width="118" height="4" rx="2" fill="url(#accent)"/>
+    <text x="74" y="239" font-size="21" font-weight="600" fill="#E8F2FF">From mathematical foundations to intelligent systems.</text>
+    <text x="74" y="277" font-size="15" fill="#A8B8D3">Python  /  Data Science  /  Machine Learning  /  Generative AI</text>
+    <g transform="translate(74 315)">
+      <rect width="102" height="29" rx="14.5" fill="#16283B" stroke="#35D9CD" stroke-opacity=".55"/><text x="51" y="19" font-size="11" font-weight="700" text-anchor="middle" fill="#B7FFF3">LEARN</text>
+      <rect x="112" width="102" height="29" rx="14.5" fill="#19243C" stroke="#55B8FA" stroke-opacity=".55"/><text x="163" y="19" font-size="11" font-weight="700" text-anchor="middle" fill="#C7E9FF">BUILD</text>
+      <rect x="224" width="102" height="29" rx="14.5" fill="#251D40" stroke="#A78BFA" stroke-opacity=".6"/><text x="275" y="19" font-size="11" font-weight="700" text-anchor="middle" fill="#E1D5FF">EVALUATE</text>
+    </g>
+  </g>
+  <g transform="translate(760 44)" stroke-linecap="round">
+    <g fill="none" stroke="url(#accent)" stroke-opacity=".48" stroke-width="1.7">
+      <path d="M70 82L190 43L305 92L400 52"/><path d="M70 82L190 156L305 92L400 170"/><path d="M70 82L190 258L305 246L400 170"/><path d="M70 204L190 43L305 246L400 52"/><path d="M70 204L190 156L305 92L400 282"/><path d="M70 204L190 258L305 246L400 282"/><path d="M190 43L190 156L190 258" stroke-opacity=".25"/><path d="M305 92L305 246" stroke-opacity=".25"/>
+    </g>
+    <g filter="url(#softGlow)">
+      <g fill="#0C1B31" stroke="#48DCD8" stroke-width="2.2"><circle cx="70" cy="82" r="10"/><circle cx="70" cy="204" r="10"/></g>
+      <g fill="#10213D" stroke="#5BBEFF" stroke-width="2.2"><circle cx="190" cy="43" r="11"/><circle cx="190" cy="156" r="12"/><circle cx="190" cy="258" r="11"/></g>
+      <g fill="#191A3D" stroke="#A78BFA" stroke-width="2.2"><circle cx="305" cy="92" r="12"/><circle cx="305" cy="246" r="12"/></g>
+      <g fill="#12223A" stroke="#67E6DF" stroke-width="2.2"><circle cx="400" cy="52" r="10"/><circle cx="400" cy="170" r="14"/><circle cx="400" cy="282" r="10"/></g>
+      <circle cx="400" cy="170" r="4" fill="#FFFFFF" stroke="none"/>
+    </g>
+    <text x="70" y="328" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2.2" fill="#7186A8">DATA → PATTERNS → INTELLIGENCE</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="388" rx="25" fill="none" stroke="#8BD9FF" stroke-opacity=".2"/>
+</svg>
