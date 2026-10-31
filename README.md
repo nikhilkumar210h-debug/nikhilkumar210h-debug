@@ -1,87 +1,44 @@
-# Hey, I'm Nikhil Kumar! 👋🤖
+<div align="center">
 
-> *A self-taught Python developer from Bihar, India — building real projects and chasing an AI/ML career without a degree.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,45:5B21B6,100:00F5FF&height=220&section=header&text=NIKHIL%20KUMAR&fontSize=56&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=MACHINE%20LEARNING%20%C2%B7%20DATA%20SCIENCE&descAlignY=58&descSize=16" width="100%" alt="header" />
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%3E+initializing+machine_learning.exe;%3E+loading+python+%C2%B7+sql+%C2%B7+statistics+%C2%B7+linear_algebra;%3E+status%3A+learning+%C2%B7+building+%C2%B7+shipping" alt="typing" /></a>
 
-## 🚀 About Me
+</div>
 
-- 🧠 **Self-taught developer** — learned Python from scratch via Code With Harry 100 Days course
-- 🤖 **Currently learning** — AI/ML (Machine Learning)
-- 🎯 **Goal** — Become an ML Engineer based on skills and portfolio, no degree needed
-- 🏠 **From** — Dehri on Sone, Bihar, India
-- ⚡ **Fun fact** — I built a working AI voice assistant and webapp before finishing my basics!
+## `> MISSION LOG // ML PROJECTS`
 
----
+<div align="center">
+<!--PROJECTS:START-->
+<!--PROJECTS:END-->
+</div>
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="assets/stats.svg" width="100%" alt="GitHub statistics" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+## `> ROADMAP // PHASE TRACKER`
 
-**completed:**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-000000?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-000000?style=for-the-badge&logo=anaconda&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkumar210h-debug&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilkumar210h-debug&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilkumar210h-debug&theme=tokyonight)
----
-
-## 🎯 My Learning Roadmap
-
-```
-✅ Real Projects        — 20+ projects on GitHub.
-✅ Python Basics        — intermidiate level.
-✅ AI/ML Libraries      — NumPy, Pandas, Matplotlib,seaborn.
-✅ Data analysis        —  data gathring, data assessing, data cleaning, eda.
-✅SQL                   — sql .
-🔃 math                 — (In Progress).
-⬜ Machine Learning     — Coming soon. .
-⬜ Deep Learning        — Coming soon.
-⬜ NLP                  — Coming soon.
-⬜ AGENTIC AI           — Coming soon.
-⬜ LLM                  — Coming soon.
-⬜ Kaggle Competitions  — Coming soon.
-⬜ ML Engineer Job      — The final goal 🎯.
-```
-
----
-
-## 📈 What I'm Currently Working On
-
-- 📚 **Learing basic to advance Machine learning** — Day by day
-- 🤖 **Improving Grude AI** — Adding more features
-
----
-
-## 📬 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-nikhilkumar210h--debug-181717?style=for-the-badge&logo=github)](https://github.com/nikhilkumar210h-debug)
-
-[![kaggle](https://img.shields.io/badge/Kaggle-nikhilkumar210h-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nikhilkumar210h)
----
+| PHASE | MODULE | STATUS |
+| :-: | :-- | :-: |
+| `01` | Python · NumPy · Pandas · Matplotlib · Seaborn | ![](https://img.shields.io/badge/ONLINE-00E676?style=flat-square) |
+| `02` | Data Analysis & EDA | ![](https://img.shields.io/badge/ONLINE-00E676?style=flat-square) |
+| `03` | SQL | ![](https://img.shields.io/badge/ONLINE-00E676?style=flat-square) |
+| `04` | Statistics & Probability | ![](https://img.shields.io/badge/ONLINE-00E676?style=flat-square) |
+| `05` | Linear Algebra · Calculus · Optimization | ![](https://img.shields.io/badge/LOADING-FF9100?style=flat-square) |
+| `06` | Machine Learning Algorithms | ![](https://img.shields.io/badge/NEXT-FF2E93?style=flat-square) |
+| `07` | Deep Learning · NLP & LLMs | ![](https://img.shields.io/badge/QUEUED-4C1D95?style=flat-square) |
+| `08` | MLOps & Deployment | ![](https://img.shields.io/badge/QUEUED-4C1D95?style=flat-square) |
 
 <div align="center">
 
-### 💡 "No degree. No shortcuts. Just code, consistency, and curiosity."
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilkumar210h-debug&theme=tokyonight" width="48%" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilkumar210h-debug&theme=tokyonight" width="48%" alt="languages" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nikhilkumar210h-debug&color=blue&style=for-the-badge)
+</div>
+
+<div align="center">
+
+> ### *Skills over degrees. Proof of work over promises.*
 
 </div>
