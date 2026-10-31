@@ -1,0 +1,6 @@
+{
+  "include": [],
+  "exclude": [],
+  "exclude_keywords": ["trio", "grude", "website", "web", "app", "portfolio", "landing"],
+  "max_projects": 6
+}
