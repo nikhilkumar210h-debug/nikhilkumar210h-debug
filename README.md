@@ -97,12 +97,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Grude AI</h3>
+      <h3>🧠 Urabancart Sales Analysis </h3>
       <img src="https://img.shields.io/badge/Python-243B63?style=flat-square" alt="Python" />
       <img src="https://img.shields.io/badge/Local_LLM-243B63?style=flat-square" alt="Local LLM" />
       <img src="https://img.shields.io/badge/Voice_AI-243B63?style=flat-square" alt="Voice AI" />
-      <p>A voice-based personal AI assistant for Windows, described in the repository as using a local Llama 3 model, voice interaction, notes, weather and PC control.</p>
-      <a href="https://github.com/nikhilkumar210h-debug/grude-ai"><img src="https://img.shields.io/badge/VIEW_REPOSITORY_%E2%86%97-6D5DFB?style=for-the-badge" alt="View repository" /></a>
+      <p>A analysing urbancart sales data set using pandas numpy sql and vissualising using matplotlib.</p>
+      <a href="https://github.com/nikhilkumar210h-debug/data-analysis-urbancart_order_data"><img src="https://img.shields.io/badge/VIEW_REPOSITORY_%E2%86%97-6D5DFB?style=for-the-badge" alt="View repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 Smartprix Smartphone Data</h3>
