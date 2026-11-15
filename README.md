@@ -103,7 +103,7 @@
       <img src="https://img.shields.io/badge/Data_Cleaning-243B63?style=flat-square" alt="Data Cleaning" />
       <img src="https://img.shields.io/badge/Matplotlib-243B63?style=flat-square" alt="Matplotlib" />
       <img src="https://img.shields.io/badge/EDA-243B63?style=flat-square" alt="EDA" />
-      <p>A analysing urbancart sales data set using pandas numpy sql and vissualising using matplotlib.</p>
+      <p>A analysing urbancart sales data set using pandas and exploring using sql  </p>
       <a href="https://github.com/nikhilkumar210h-debug/data-analysis-urbancart_order_data"><img src="https://img.shields.io/badge/VIEW_REPOSITORY_%E2%86%97-6D5DFB?style=for-the-badge" alt="View repository" /></a>
     </td>
     <td width="50%" valign="top">
