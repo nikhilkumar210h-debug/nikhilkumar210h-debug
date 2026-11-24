@@ -47,36 +47,7 @@
 </table>
 
 </div>
-<!-- EXECUTIVE SUMMARY CARD -->
-<table>
-  <tr>
-    <td align="center">
-      <p>
-        <strong>Data Analyst &amp; Python Developer</strong> specializing in end-to-end ETL pipelines, SQL querying, and commercial EDA.<br />
-        Implementing core ML algorithms from scratch—backed by <strong>Linear Algebra, Calculus &amp; Statistical Inference</strong>.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Available_for_Remote_%26_Freelance_Work-10B981?style=flat-square" alt="Availability" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Kaggle_Certified-Python_%7C_Pandas_%7C_SQL-0284C7?style=flat-square" alt="Certifications" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Focus-Data_Analytics_%26_Applied_ML-6366F1?style=flat-square" alt="Focus" />
-      </p>
-<!-- EXECUTIVE SUMMARY CARD -->
-<table>
-  <tr>
-    <td align="center">
-      <p>
-        <strong>Data Analyst &amp; Python Developer</strong> specializing in end-to-end ETL pipelines, SQL querying, and commercial EDA.<br />
-        Implementing core ML algorithms from scratch—backed by <strong>Linear Algebra, Calculus &amp; Statistical Inference</strong>.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Available_for_Remote_%26_Freelance_Work-10B981?style=flat-square" alt="Availability" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Kaggle_Certified-Python_%7C_Pandas_%7C_SQL-0284C7?style=flat-square" alt="Certifications" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Focus-Data_Analytics_%26_Applied_ML-6366F1?style=flat-square" alt="Focus" />
-      </p>
+
 
 <!-- SECTION 1: TECHNICAL ARSENAL -->
 <h2><code>01 //</code> TECHNICAL STACK &amp; CAPABILITIES</h2>
