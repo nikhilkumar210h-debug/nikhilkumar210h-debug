@@ -7,7 +7,7 @@
 
 <!-- DYNAMIC SUBTITLE -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=38&lines=Data+Analyst+%26+Python+Developer+%7C+Open+for+Remote+%26+Freelance;Raw+Data+%E2%86%92+Clean+Pipelines+%E2%86%92+Actionable+Business+Insights;Mathematics+%E2%86%92+Statistical+Modeling+%E2%86%92+Machine+Learning" alt="Nikhil Kumar Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=38&lines=Data+Analyst+%26+Applied+ML+Developer+%7C+Open+for+Remote+%26+Freelance;Raw+Data+%E2%86%92+Clean+Pipelines+%E2%86%92+Actionable+Business+Insights;Linear+Algebra+%26+Calculus+%E2%86%92+Algorithms+Built+From+Scratch" alt="Nikhil Kumar Tagline" />
 </a>
 
 <br />
@@ -32,8 +32,8 @@
   <tr>
     <td align="center">
       <p>
-        <strong>Data Analyst & Python Developer</strong> specializing in end-to-end data wrangling, SQL querying, and exploratory data analysis (EDA).<br />
-        Building a rigorous, math-first foundation in <strong>Linear Algebra, Calculus & Probability</strong> toward Machine Learning Engineering.
+        <strong>Data Analyst &amp; Python Developer</strong> specializing in end-to-end ETL pipelines, SQL querying, and commercial EDA.<br />
+        Implementing core ML algorithms from scratch—backed by <strong>Linear Algebra, Calculus &amp; Statistical Inference</strong>.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Status-Available_for_Remote_%26_Freelance_Work-10B981?style=flat-square" alt="Availability" />
@@ -67,10 +67,10 @@
         <img src="https://img.shields.io/badge/DuckDB-0F172A?style=flat-square&logo=duckdb&logoColor=38BDF8" alt="DuckDB" />
       </p>
       <ul>
-        <li>Data Cleaning & Deduplication</li>
+        <li>Data Cleaning &amp; Deduplication</li>
         <li>Exploratory Data Analysis (EDA)</li>
-        <li>KPI & Metric Engineering</li>
-        <li>Relational Querying & Joins</li>
+        <li>KPI &amp; Profit Margin Engineering</li>
+        <li>Relational Querying &amp; Joins</li>
       </ul>
     </td>
     <td width="33.3%" valign="top">
@@ -84,7 +84,7 @@
         <img src="https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=2DD4BF" alt="Jupyter" />
       </p>
       <ul>
-        <li>Executive Charts & Distributions</li>
+        <li>Executive Charts &amp; Distributions</li>
         <li>Automated Web Data Extraction</li>
         <li>Unstructured-to-CSV Pipelines</li>
         <li>Reproducible Notebooks</li>
@@ -101,10 +101,10 @@
         <img src="https://img.shields.io/badge/Scikit--Learn-0F172A?style=flat-square&logo=scikit-learn&logoColor=818CF8" alt="Scikit-Learn" />
       </p>
       <ul>
-        <li>Matrix Decomposition (SVD / PCA)</li>
-        <li>Probability & Hypothesis Testing</li>
-        <li>Feature Engineering</li>
-        <li>Model Evaluation & Baselines</li>
+        <li>Matrix Decomposition (EVD / SVD)</li>
+        <li>Probability &amp; Hypothesis Testing</li>
+        <li>Feature Engineering &amp; PCA</li>
+        <li>Model Evaluation &amp; Baselines</li>
       </ul>
     </td>
   </tr>
@@ -113,57 +113,44 @@
 <br />
 
 <!-- SECTION 2: FEATURED PROJECTS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&text=%20%2002%20%2F%2F%20SELECTED%20DATA%20%26%20PYTHON%20PROJECTS&fontSize=15&fontColor=38BDF8&fontAlign=left&fontAlignY=52" width="100%" alt="Selected Projects" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&text=%20%2002%20%2F%2F%20FEATURED%20DATA%20%26%20ML%20ENGINEERING%20PROJECTS&fontSize=15&fontColor=38BDF8&fontAlign=left&fontAlignY=52" width="100%" alt="Selected Projects" />
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 UrbanCart D2C Sales & Profit Analysis</h3>
+      <h3>🧬 PCA Image Compression Engine (EVD vs. SVD)</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square" alt="Pandas" />
-        <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square" alt="SQL" />
-        <img src="https://img.shields.io/badge/Seaborn-0F172A?style=flat-square" alt="Seaborn" />
+        <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=38BDF8" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Linear_Algebra-0F172A?style=flat-square" alt="Linear Algebra" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-0F172A?style=flat-square&logo=scikit-learn&logoColor=38BDF8" alt="Scikit-Learn" />
       </p>
-      <p>End-to-end commercial analysis of <strong>2,500+ D2C orders</strong> across 5 product categories and 8 cities. Cleaned corrupted entries, engineered net profit/loss margins, and uncovered regional revenue leaks.</p>
-      <a href="https://github.com/nikhilkumar210h-debug/data-analysis-urbancart_order_data">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%97-0284C7?style=for-the-badge" alt="View UrbanCart" />
+      <p>Built a reusable <code>CustomPCA</code> engine from scratch in pure NumPy on <strong>Fashion-MNIST (60k × 784)</strong>. Achieved <strong>89% dimensionality reduction</strong> (84 components for 90% variance) and proved EVD runs <strong>~6.5× faster</strong> than SVD when <em>n ≫ d</em>.</p>
+      <a href="https://github.com/nikhilkumar210h-debug/pca-evd-svd-engine">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%97-4F46E5?style=for-the-badge" alt="View PCA Engine" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Smartprix Smartphone Data Pipeline</h3>
+      <h3>📊 UrbanCart D2C Sales &amp; Profit Analysis</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8" alt="Python" />
         <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square" alt="NumPy" />
-        <img src="https://img.shields.io/badge/Data_Wrangling-0F172A?style=flat-square" alt="Data Wrangling" />
+        <img src="https://img.shields.io/badge/DuckDB_%2F_SQL-0F172A?style=flat-square&logo=duckdb&logoColor=38BDF8" alt="DuckDB" />
+        <img src="https://img.shields.io/badge/Seaborn-0F172A?style=flat-square" alt="Seaborn" />
       </p>
-      <p>Parsed and standardized messy multi-attribute smartphone hardware listings. Resolved missing specs, normalized units, and distilled <strong>1,028 raw records into 610 analysis-ready rows</strong>.</p>
-      <a href="https://github.com/nikhilkumar210h-debug/smartprix-smartphone-data-scraping">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%97-0284C7?style=for-the-badge" alt="View Smartprix" />
+      <p>End-to-end commercial analysis of <strong>2,500+ D2C orders</strong> across 5 categories and 8 cities. Cleaned corrupted entries, engineered net profit/loss margins, and uncovered high-return revenue leaks.</p>
+      <a href="https://github.com/nikhilkumar210h-debug/data-analysis-urbancart_order_data">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%97-0284C7?style=for-the-badge" alt="View UrbanCart" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏏 IPL Historical Match & Delivery EDA</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square" alt="Pandas" />
-        <img src="https://img.shields.io/badge/Matplotlib-0F172A?style=flat-square" alt="Matplotlib" />
-        <img src="https://img.shields.io/badge/EDA-0F172A?style=flat-square" alt="EDA" />
-      </p>
-      <p>Comprehensive statistical breakdown of <strong>10 seasons (2008–2017)</strong> of IPL match and ball-by-ball delivery datasets, evaluating toss impact, venue bias, and team consistency.</p>
-      <a href="https://github.com/nikhilkumar210h-debug/IPL-Data-Visualization-with-Matplotlib">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%97-0284C7?style=for-the-badge" alt="View IPL EDA" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🖼️ NumPy Computer Vision Pipeline</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8" alt="Python" />
-        <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square" alt="NumPy" />
-        <img src="https://img.shields.io/badge/SciPy-0F172A?style=flat-square" alt="SciPy" />
+        <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=38BDF8" alt="NumPy" />
+        <img src="https://img.shields.io/badge/SciPy-0F172A?style=flat-square&logo=scipy&logoColor=38BDF8" alt="SciPy" />
         <img src="https://img.shields.io/badge/Pillow-0F172A?style=flat-square" alt="Pillow" />
       </p>
       <p>Implemented core image processing kernels from scratch using pure matrix math—featuring grayscale transforms, brightness scaling, convolution blur, sharpening, and Sobel edge detection.</p>
@@ -171,31 +158,17 @@
         <img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%97-0284C7?style=for-the-badge" alt="View Image Pipeline" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>📲 Samsung Catalog Cleaning & Structuring</h3>
+      <h3>📱 Smartphone Catalog ETL &amp; Scraping Pipelines</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8" alt="Python" />
         <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square" alt="NumPy" />
+        <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=38BDF8" alt="NumPy" />
         <img src="https://img.shields.io/badge/ETL-0F172A?style=flat-square" alt="ETL" />
       </p>
-      <p>Extracted raw Samsung device catalogs and engineered a clean relational schema to enable segment-wise pricing and hardware feature comparisons.</p>
-      <a href="https://github.com/nikhilkumar210h-debug/Samsung-Smartphone-Data-Scraping-and-Cleaning">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%97-0284C7?style=for-the-badge" alt="View Samsung Pipeline" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📐 AI / ML Mathematics & Study Log</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Mathematics-0F172A?style=flat-square" alt="Mathematics" />
-        <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square" alt="Python" />
-        <img src="https://img.shields.io/badge/ML_Foundations-0F172A?style=flat-square" alt="ML Foundations" />
-      </p>
-      <p>Curated study repository documenting structured progress across linear algebra, differential calculus, probability distributions, and foundational ML algorithms.</p>
-      <a href="https://github.com/nikhilkumar210h-debug/Decode-AiML">
-        <img src="https://img.shields.io/badge/VIEW_STUDY_TRACK_%E2%86%97-4F46E5?style=for-the-badge" alt="View Study Track" />
+      <p>Parsed and standardized messy Smartprix &amp; Samsung smartphone hardware listings. Resolved missing specs, normalized units, and distilled <strong>1,028 raw records into 610 analysis-ready rows</strong>.</p>
+      <a href="https://github.com/nikhilkumar210h-debug/smartprix-smartphone-data-scraping">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%97-0284C7?style=for-the-badge" alt="View Smartprix" />
       </a>
     </td>
   </tr>
@@ -228,7 +201,7 @@
       <img src="https://img.shields.io/badge/PHASE_1_%E2%80%A2_COMPLETED-059669?style=for-the-badge" alt="Phase 1" />
       <p>
         ✓ Python, NumPy &amp; Pandas<br />
-        ✓ SQL &amp; Relational Analysis<br />
+        ✓ SQL, DuckDB &amp; Relational Analysis<br />
         ✓ Data Cleaning &amp; Web Scraping<br />
         ✓ EDA &amp; Statistical Plotting<br />
         ✓ Kaggle Python, Pandas &amp; SQL Certs
@@ -237,7 +210,7 @@
     <td width="33.3%" valign="top">
       <img src="https://img.shields.io/badge/PHASE_2_%E2%80%A2_IN_PROGRESS-0284C7?style=for-the-badge" alt="Phase 2" />
       <p>
-        ◈ Linear Algebra (SVD &amp; PCA)<br />
+        ✓ Linear Algebra (EVD, SVD &amp; PCA Engine)<br />
         ◈ Differential Calculus &amp; Gradients<br />
         ◈ Probability &amp; Statistical Inference<br />
         ◈ Supervised ML (Scikit-Learn)<br />
