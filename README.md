@@ -47,11 +47,39 @@
 </table>
 
 </div>
-
-<br />
+<!-- EXECUTIVE SUMMARY CARD -->
+<table>
+  <tr>
+    <td align="center">
+      <p>
+        <strong>Data Analyst &amp; Python Developer</strong> specializing in end-to-end ETL pipelines, SQL querying, and commercial EDA.<br />
+        Implementing core ML algorithms from scratch—backed by <strong>Linear Algebra, Calculus &amp; Statistical Inference</strong>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Available_for_Remote_%26_Freelance_Work-10B981?style=flat-square" alt="Availability" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Kaggle_Certified-Python_%7C_Pandas_%7C_SQL-0284C7?style=flat-square" alt="Certifications" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Focus-Data_Analytics_%26_Applied_ML-6366F1?style=flat-square" alt="Focus" />
+      </p>
+<!-- EXECUTIVE SUMMARY CARD -->
+<table>
+  <tr>
+    <td align="center">
+      <p>
+        <strong>Data Analyst &amp; Python Developer</strong> specializing in end-to-end ETL pipelines, SQL querying, and commercial EDA.<br />
+        Implementing core ML algorithms from scratch—backed by <strong>Linear Algebra, Calculus &amp; Statistical Inference</strong>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Available_for_Remote_%26_Freelance_Work-10B981?style=flat-square" alt="Availability" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Kaggle_Certified-Python_%7C_Pandas_%7C_SQL-0284C7?style=flat-square" alt="Certifications" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Focus-Data_Analytics_%26_Applied_ML-6366F1?style=flat-square" alt="Focus" />
+      </p>
 
 <!-- SECTION 1: TECHNICAL ARSENAL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&text=%20%2001%20%2F%2F%20TECHNICAL%20STACK%20%26%20CAPABILITIES&fontSize=15&fontColor=38BDF8&fontAlign=left&fontAlignY=52" width="100%" alt="Technical Stack" />
+<h2><code>01 //</code> TECHNICAL STACK &amp; CAPABILITIES</h2>
 
 <table>
   <tr>
@@ -113,7 +141,7 @@
 <br />
 
 <!-- SECTION 2: FEATURED PROJECTS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&text=%20%2002%20%2F%2F%20FEATURED%20DATA%20%26%20ML%20ENGINEERING%20PROJECTS&fontSize=15&fontColor=38BDF8&fontAlign=left&fontAlignY=52" width="100%" alt="Selected Projects" />
+<h2><code>02 //</code> FEATURED DATA &amp; ML ENGINEERING PROJECTS</h2>
 
 <table>
   <tr>
@@ -177,7 +205,7 @@
 <br />
 
 <!-- SECTION 3: METHODOLOGY & ROADMAP -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&text=%20%2003%20%2F%2F%20ANALYTICAL%20WORKFLOW%20%26%20ENGINEERING%20ROADMAP&fontSize=15&fontColor=38BDF8&fontAlign=left&fontAlignY=52" width="100%" alt="Workflow & Roadmap" />
+<h2><code>03 //</code> ANALYTICAL WORKFLOW &amp; ENGINEERING ROADMAP</h2>
 
 <div align="center">
 
@@ -198,33 +226,33 @@
 <table>
   <tr>
     <td width="33.3%" valign="top">
-      <img src="https://img.shields.io/badge/PHASE_1_%E2%80%A2_COMPLETED-059669?style=for-the-badge" alt="Phase 1" />
+      <img src="https://img.shields.io/badge/PHASE_1_%E2%80%A2_COMPLETED-059669?style=for-the-badge" alt="Phase 1 Complete" />
       <p>
-        ✓ Python, NumPy &amp; Pandas<br />
-        ✓ SQL, DuckDB &amp; Relational Analysis<br />
-        ✓ Data Cleaning &amp; Web Scraping<br />
-        ✓ EDA &amp; Statistical Plotting<br />
-        ✓ Kaggle Python, Pandas &amp; SQL Certs
+        ✓ Python, NumPy, Pandas, Matplotlib &amp; Seaborn<br />
+        ✓ SQL (DuckDB, SQLite, MySQL &amp; XAMPP)<br />
+        ✓ Linear Algebra (EVD, SVD &amp; Custom PCA)<br />
+        ✓ Differential Calculus &amp; Optimization<br />
+        ✓ Probability &amp; Inferential Statistics (Hypothesis Testing)
       </p>
     </td>
     <td width="33.3%" valign="top">
-      <img src="https://img.shields.io/badge/PHASE_2_%E2%80%A2_IN_PROGRESS-0284C7?style=for-the-badge" alt="Phase 2" />
+      <img src="https://img.shields.io/badge/PHASE_2_%E2%80%A2_IN_PROGRESS-0284C7?style=for-the-badge" alt="Phase 2 In Progress" />
       <p>
-        ✓ Linear Algebra (EVD, SVD &amp; PCA Engine)<br />
-        ◈ Differential Calculus &amp; Gradients<br />
-        ◈ Probability &amp; Statistical Inference<br />
-        ◈ Supervised ML (Scikit-Learn)<br />
-        ◈ Feature Engineering &amp; Validation
+        ◈ Supervised ML (Regression &amp; Classification)<br />
+        ◈ Tree Ensembles (Random Forest, XGBoost, LightGBM)<br />
+        ◈ Support Vector Machines, KNN &amp; Naive Bayes<br />
+        ◈ Unsupervised Learning (K-Means Clustering)<br />
+        ◈ Feature Engineering &amp; Cross-Validation (Scikit-Learn)
       </p>
     </td>
     <td width="33.3%" valign="top">
-      <img src="https://img.shields.io/badge/PHASE_3_%E2%80%A2_NEXT_HORIZON-4F46E5?style=for-the-badge" alt="Phase 3" />
+      <img src="https://img.shields.io/badge/PHASE_3_%E2%80%A2_NEXT_HORIZON-4F46E5?style=for-the-badge" alt="Phase 3 Next" />
       <p>
-        ○ Neural Networks &amp; PyTorch<br />
-        ○ NLP &amp; Transformer Architectures<br />
-        ○ Embeddings &amp; Vector Retrieval<br />
-        ○ RAG Systems &amp; Evaluation<br />
-        ○ Production AI Applications
+        ○ Deep Learning &amp; PyTorch (CNNs, RNNs)<br />
+        ○ NLP &amp; Transformers (Hugging Face)<br />
+        ○ LLMs, Fine-Tuning (LoRA) &amp; RAG (ChromaDB)<br />
+        ○ Agentic AI (LangChain, CrewAI, AutoGen, MCP)<br />
+        ○ MLOps (FastAPI, Docker, MLflow), Cloud &amp; System Design
       </p>
     </td>
   </tr>
@@ -235,7 +263,7 @@
 <br />
 
 <!-- SECTION 4: CONTRIBUTION GRAPH -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=42&text=%20%2004%20%2F%2F%20CONSISTENCY%20%26%20CONTRIBUTION%20TRAIL&fontSize=15&fontColor=38BDF8&fontAlign=left&fontAlignY=52" width="100%" alt="Contribution Trail" />
+<h2><code>04 //</code> CONSISTENCY &amp; CONTRIBUTION TRAIL</h2>
 
 <div align="center">
 
@@ -257,6 +285,5 @@
   <a href="mailto:nikhilkumar45374@gmail.com">nikhilkumar45374@gmail.com</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:4F46E5&height=95&section=footer" width="100%" alt="Footer Wave" />
-
+<hr />
 </div>
